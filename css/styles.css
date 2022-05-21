@@ -1,0 +1,20 @@
+body{background-color: #FFE2E2;}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: #1F1F1F;
+border-width: 5px;
+width: 6%;
+}
+h1{
+color: #03045E;
+}
+h3{color: #00B4D8}
+table{color: #8785A2}
+ol{color: #546654}
+#main{
+font-family: monospace;
+}
+#intro{
+    font-family: monospace;
+}
